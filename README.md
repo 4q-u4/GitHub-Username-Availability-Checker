@@ -38,17 +38,17 @@ Make sure you have the following prerequisites installed:
 ### Installation
 
 1. Clone the repository to your local machine:
-
+```bash
 git clone https://github.com/yourusername/username-availability-checker.git
-
+```
 2. Change to the project directory:
-
+```bash
 cd username-availability-checker
-
+```
 3. Run The Script:
-
+```bash
 python checker.py
-
+```
 ### Usage
 
 Run the script as described in the installation section.
