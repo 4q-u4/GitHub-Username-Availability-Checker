@@ -47,7 +47,7 @@ cd username-availability-checker
 
 3. Run The Script:
 
-python username_checker.py
+python checker.py
 
 ### Usage
 
