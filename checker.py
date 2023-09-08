@@ -15,7 +15,8 @@ aqua = """
 --------------------------------------------------                                                                                                                                                                                                                                                                                
     """
 
-print(aqua)
+print(Fore.BLUE + f"{aqua}" + Fore.RESET)
+
 
 while True:
     user = ""
