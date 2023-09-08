@@ -3,6 +3,20 @@ import random
 import time
 from colorama import Fore
 
+aqua = """
+                                                                                                      
+    ██╗  ██╗ ██████╗       ██╗   ██╗██╗  ██╗    
+    ██║  ██║██╔═══██╗      ██║   ██║██║  ██║    
+    ███████║██║   ██║█████╗██║   ██║███████║    
+    ╚════██║██║▄▄ ██║╚════╝██║   ██║╚════██║    
+         ██║╚██████╔╝      ╚██████╔╝     ██║    
+         ╚═╝ ╚══▀▀═╝        ╚═════╝      ╚═╝    
+                                                                                             
+--------------------------------------------------                                                                                                                                                                                                                                                                                
+    """
+
+print(aqua)
+
 while True:
     user = ""
     for character in random.choices("abcdefghijklmnopqrstuvwxyz123456789", k=3):
