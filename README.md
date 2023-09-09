@@ -4,6 +4,7 @@ Check the availability of GitHub usernames with this Python script.
 
 ## Table of Contents
 
+
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
